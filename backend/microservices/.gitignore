@@ -1,0 +1,4 @@
+venv
+openjourney_model
+stable_diffusion_model
+app/__pycache__
